@@ -1,0 +1,3 @@
+﻿     Creating library C:\Users\Administrator\source\repos\ExcodeTest\x64\Debug\Excodelib++.lib and object C:\Users\Administrator\source\repos\ExcodeTest\x64\Debug\Excodelib++.exp
+Excodelib++.exp : warning LNK4070: /OUT:excode.dll directive in .EXP differs from output filename 'C:\Users\Administrator\source\repos\ExcodeTest\x64\Debug\Excodelib++.dll'; ignoring directive
+  Excodelib++.vcxproj -> C:\Users\Administrator\source\repos\ExcodeTest\x64\Debug\Excodelib++.dll

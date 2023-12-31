@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+  pch.cpp
+  excode.cpp
+C:\Users\Administrator\source\repos\Excodelib++\Excodelib++\excode.cpp(6,5): error C2664: 'int MessageBoxA(HWND,LPCSTR,LPCSTR,UINT)': cannot convert argument 2 from 'const wchar_t [16]' to 'LPCSTR'
+C:\Users\Administrator\source\repos\Excodelib++\Excodelib++\excode.cpp(6,22): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9172,1): message : see declaration of 'MessageBoxA'
+C:\Users\Administrator\source\repos\Excodelib++\Excodelib++\excode.cpp(6,5): message : while trying to match the argument list '(int, const wchar_t [16], const wchar_t [9], long)'
+  Generating Code...
